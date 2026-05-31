@@ -106,6 +106,7 @@ class SecretosActivity : AppCompatActivity() {
         }
     }
 
+
     private fun recuperarSecreto() {
         val key = etKey.text.toString().trim()
         val tipo = spinnerTipo.selectedItem.toString()

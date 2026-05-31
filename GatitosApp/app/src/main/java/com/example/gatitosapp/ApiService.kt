@@ -18,4 +18,5 @@ interface ApiService {
         @Path("id") id: Int,
         @Body post: Post
     ): Response<Post>
+
 }
