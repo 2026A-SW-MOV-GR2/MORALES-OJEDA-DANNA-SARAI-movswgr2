@@ -70,6 +70,7 @@ class MainActivity : AppCompatActivity() {
         insertarDatosIniciales()
     }
 
+
     private fun insertarDatosIniciales() {
         if (sqlHelper.obtenerTodos().isEmpty()) {
             sqlHelper.insertar(

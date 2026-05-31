@@ -50,6 +50,7 @@ class GatitoNoSqlStore(private val context: Context) {
         guardarLista(listaActual)
     }
 
+
     private suspend fun guardarLista(lista: List<Gatito>) {
         val json = gson.toJson(lista)
 
