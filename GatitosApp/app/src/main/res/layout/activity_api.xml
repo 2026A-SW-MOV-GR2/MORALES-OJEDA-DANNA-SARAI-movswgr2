@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F3E8FF"
+    android:padding="16dp">
+
+    <!-- Título -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="API de Gatitos 🐱"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:textColor="#7E22CE"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnVolver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Volver"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="#E9D5FF"
+        android:textColor="#7E22CE"/>
+
+    <!-- Input ID -->
+    <EditText
+        android:id="@+id/etId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese ID del post"
+        android:inputType="number"
+        android:backgroundTint="#A855F7"/>
+
+    <!-- Botón Obtener -->
+    <Button
+        android:id="@+id/btnObtener"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Obtener"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#A855F7"/>
+
+    <!-- Title -->
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Título"
+        android:layout_marginTop="24dp"
+        android:backgroundTint="#A855F7"/>
+
+    <!-- Body -->
+    <EditText
+        android:id="@+id/etBody"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:gravity="top"
+        android:hint="Contenido"
+        android:backgroundTint="#A855F7"
+        android:layout_marginTop="12dp"/>
+
+    <!-- Botón Actualizar -->
+    <Button
+        android:id="@+id/btnActualizar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Actualizar"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#7E22CE"/>
+
+    <!-- Estado -->
+    <TextView
+        android:id="@+id/txtEstado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textStyle="bold"
+        android:textColor="#6B21A8"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
