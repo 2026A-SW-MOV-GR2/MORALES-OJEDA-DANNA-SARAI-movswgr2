@@ -35,3 +35,7 @@ Comprender la interacción entre Android y:
 - Persistencia local
 - Almacenamiento seguro
 - Arquitecturas SQL y NoSQL
+
+## 📹 Demostracion
+
+- 🎓 [Video examen](https://epnecuador-my.sharepoint.com/:v:/g/personal/danna_morales_epn_edu_ec/IQAGV7SaIbM7RqaqGmSxvS2BAfr0J15OiTSVZr7XzjOj-v4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=l5bOBr )
