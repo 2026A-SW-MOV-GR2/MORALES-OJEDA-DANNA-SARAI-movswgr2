@@ -1,37 +1,48 @@
 # MORALES-OJEDA-DANNA-SARAI-movswgr2
 
-# 📱 Examen - Persistencia Dual Android
+# 🐱 GatitosApp - Proyecto Android
 
-Aplicación móvil desarrollada en Kotlin nativo para Android Studio.
+Aplicación móvil desarrollada en Kotlin para Android Studio enfocada en persistencia híbrida, consumo de APIs REST y almacenamiento seguro.
 
-## ✨ Funcionalidades
+## 📱 Características principales
 
-- Consumo de API REST con Retrofit
-- Peticiones GET y PUT usando JSONPlaceholder
-- Persistencia dual:
-  - SQLite
-  - NoSQL local
-- Cambio dinámico mediante Switch
-- Gestión de almacenamiento seguro:
-  - SharedPreferences
-  - DataStore
-  - EncryptedSharedPreferences
+### 🌐 Comunicación con API REST
+- Consulta de posts usando JSONPlaceholder
+- Actualización mediante PUT
+- Manejo de estados de carga
+- Actualización visual de resultados
 
-## 🛠 Tecnologías usadas
+### 🔐 Gestión de secretos y configuración
+Implementación de:
 
-- Kotlin
-- Android SDK
-- Retrofit
-- Coroutines
-- RecyclerView
 - SharedPreferences
 - DataStore
 - EncryptedSharedPreferences
 
-## 📌 Objetivo académico
+para almacenamiento seguro de información.
 
-Comprender la interacción entre Android y:
-- APIs REST
-- Persistencia local
-- Almacenamiento seguro
-- Arquitecturas SQL y NoSQL
+## 🎨 Diseño UI
+- Interfaz moderna en tonos pastel
+- Navegación entre pantallas
+- Floating Action Button
+- Diseño responsivo
+
+## 🛠 Tecnologías utilizadas
+
+- Kotlin
+- Android Studio
+- Retrofit
+- Coroutines
+- RecyclerView
+- SQLite
+- SharedPreferences
+- DataStore
+- EncryptedSharedPreferences
+
+## 🎯 Objetivo del proyecto
+
+Aplicar conceptos de:
+- persistencia híbrida,
+- consumo de APIs,
+- almacenamiento seguro,
+- y arquitectura Android nativa.
