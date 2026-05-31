@@ -49,4 +49,4 @@ Aplicar conceptos de:
 
 ## 📹 Demostracion
 
-- 🚀 [Video proyecto]([https://TU-LINK](https://epnecuador-my.sharepoint.com/:v:/g/personal/danna_morales_epn_edu_ec/IQD1KU2eunmiS6M_LLBpTXG0AZZOebNG2tpaAU2aIr9Rxxo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0fsZ7d))
+- 🚀 [Video proyecto](https://epnecuador-my.sharepoint.com/:v:/g/personal/danna_morales_epn_edu_ec/IQD1KU2eunmiS6M_LLBpTXG0AZZOebNG2tpaAU2aIr9Rxxo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0fsZ7d)
